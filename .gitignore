@@ -36,4 +36,4 @@
 *.pch
 *.ipch
 *.opendb
-*.db
+*/Debug/
